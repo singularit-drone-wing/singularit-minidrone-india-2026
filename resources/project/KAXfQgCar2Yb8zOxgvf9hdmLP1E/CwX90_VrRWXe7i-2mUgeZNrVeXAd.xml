@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="mainModels/PX4MultiCopterPerceptionAndControl.slx" Icon="" Name="PX4MultiCopterPerceptionAndControl" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="5669843c-aaae-4587-8489-08673609fce4"/>
+</Info>
