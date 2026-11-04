@@ -1,0 +1,13 @@
+# MATLAB / Simulink Caches and Build Artifacts
+slprj/
+work/cache/
+*.asv
+*.tmp
+*.log
+
+# Simulation run logs and captured image data
+tracking_sim_results*.mat
+captured_frame*.mat
+
+# Ensure essential vehicle model data is always tracked
+!support/Quadcopter.mat
